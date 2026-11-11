@@ -1,0 +1,13 @@
+aira_ai_best.pt
+input.txt
+tinystories.txt
+__pycache__/
+*.pt
+
+__pycache__/
+*.pyc
+*.pt
+*.npz
+.venv/
+input.txt
+tinystories.txt
